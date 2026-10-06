@@ -1,0 +1,6 @@
+{
+  "name": "PAYOUT Enterprise Finance Portal",
+  "description": "Secure authentication and target dashboard access for PAYOUT enterprise finance, treasury, employee portal, and manager approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
